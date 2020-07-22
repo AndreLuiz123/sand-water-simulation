@@ -35,4 +35,5 @@ li h2:hover{
     background: url("assets/hanglose.png") no-repeat right;
     background-size: 35px;
     padding-right: 40px;
+    cursor:alias;
 }
